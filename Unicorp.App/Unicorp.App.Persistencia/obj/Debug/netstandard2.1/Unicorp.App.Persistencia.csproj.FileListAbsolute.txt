@@ -1,0 +1,36 @@
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.AssemblyInfo.cs
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Persistencia\bin\Debug\netstandard2.1\Unicorp.App.Persistencia.deps.json
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Persistencia\bin\Debug\netstandard2.1\Unicorp.App.Persistencia.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Persistencia\bin\Debug\netstandard2.1\Unicorp.App.Persistencia.pdb
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Persistencia\bin\Debug\netstandard2.1\Unicorp.App.Dominio.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Persistencia\bin\Debug\netstandard2.1\Unicorp.App.Dominio.pdb
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.csproj.CopyComplete
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Persistencia\bin\Debug\netstandard2.1\Unicorp.App.Persistencia.deps.json
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Persistencia\bin\Debug\netstandard2.1\Unicorp.App.Persistencia.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Persistencia\bin\Debug\netstandard2.1\Unicorp.App.Persistencia.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Persistencia\bin\Debug\netstandard2.1\Unicorp.App.Dominio.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Persistencia\bin\Debug\netstandard2.1\Unicorp.App.Dominio.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.AssemblyInfo.cs
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.csproj.CopyComplete
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Persistencia\bin\Debug\netstandard2.1\Unicorp.App.Persistencia.deps.json
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Persistencia\bin\Debug\netstandard2.1\Unicorp.App.Persistencia.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Persistencia\bin\Debug\netstandard2.1\Unicorp.App.Persistencia.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Persistencia\bin\Debug\netstandard2.1\Unicorp.App.Dominio.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Persistencia\bin\Debug\netstandard2.1\Unicorp.App.Dominio.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.AssemblyInfo.cs
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.csproj.CopyComplete
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.pdb

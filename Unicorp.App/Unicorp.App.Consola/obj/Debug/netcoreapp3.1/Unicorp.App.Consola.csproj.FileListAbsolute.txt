@@ -1,0 +1,204 @@
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Consola.exe
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Consola.deps.json
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Consola.runtimeconfig.json
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Consola.runtimeconfig.dev.json
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Consola.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Consola.pdb
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Dominio.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Persistencia.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Persistencia.pdb
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Dominio.pdb
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.csprojAssemblyReference.cache
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.AssemblyInfoInputs.cache
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.AssemblyInfo.cs
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.csproj.CoreCompileInputs.cache
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.csproj.CopyComplete
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.dll
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.pdb
+C:\Users\MILE\Documents\MILEYVI\U. CALDAS\FUNDA. PROGRAMACION\CICLO 3\C#\Proyecto\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.genruntimeconfig.cache
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Consola.exe
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Consola.deps.json
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Consola.runtimeconfig.json
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Consola.runtimeconfig.dev.json
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Consola.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Consola.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Dominio.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Persistencia.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Persistencia.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Dominio.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.csprojAssemblyReference.cache
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.AssemblyInfoInputs.cache
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.AssemblyInfo.cs
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.csproj.CopyComplete
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Proyecto\Proyecto\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.genruntimeconfig.cache
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Consola.exe
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Consola.deps.json
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Consola.runtimeconfig.json
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Consola.runtimeconfig.dev.json
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Consola.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Consola.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Dominio.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Persistencia.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Persistencia.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\bin\Debug\netcoreapp3.1\Unicorp.App.Dominio.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.csprojAssemblyReference.cache
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.AssemblyInfoInputs.cache
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.AssemblyInfo.cs
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.csproj.CopyComplete
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.dll
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.pdb
+C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Consola\obj\Debug\netcoreapp3.1\Unicorp.App.Consola.genruntimeconfig.cache
