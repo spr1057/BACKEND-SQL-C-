@@ -1,7 +1,7 @@
 namespace Unicorp.App.Dominio
 {
 
-    public class Administrador : Personas
+    public class Administradores : Personas
     
     {
 

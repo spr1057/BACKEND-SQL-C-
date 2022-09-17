@@ -7,8 +7,14 @@ namespace Unicorp.Persistencia
     public class AppContext : DbContext
     {
         public DbSet<Personas> Persona { get; set; }
+        public DbSet<Tecnicos> Tecnico { get; set; }
+        public DbSet<Administradores> Administrador { get; set; }
+        public DbSet<Clientes> Cliente { get; set; }
         public DbSet<Servicios> Servicio { get; set; }
         public DbSet<Pagos> Pago { get; set; }
+        public DbSet<Detalle_de_Servicios> Detalle_Servicio { get; set; }
+
+
 
         protected override void OnConfiguring(
             DbContextOptionsBuilder optionsBuilder
