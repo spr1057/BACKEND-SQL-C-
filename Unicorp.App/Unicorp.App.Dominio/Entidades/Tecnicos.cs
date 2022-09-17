@@ -1,7 +1,7 @@
 namespace Unicorp.App.Dominio
 {
 
-    public class Técnicos
+    public class Tecnicos : Personas
     
     {
         public string Formacion_profesional { get; set; }

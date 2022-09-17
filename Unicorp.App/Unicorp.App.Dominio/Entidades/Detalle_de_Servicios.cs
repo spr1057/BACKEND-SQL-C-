@@ -1,7 +1,7 @@
 namespace Unicorp.App.Dominio
 {
 
-    public class Detalle_de_Servicios
+    public class Detalle_de_Servicios : Servicios
     
     {
         public string Fecha_servicio { get; set; }

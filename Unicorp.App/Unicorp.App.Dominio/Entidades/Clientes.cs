@@ -1,7 +1,7 @@
 namespace Unicorp.App.Dominio
 {
 
-    public class Clientes
+    public class Clientes : Personas
     
     {
         public string Ciudad { get; set; }
