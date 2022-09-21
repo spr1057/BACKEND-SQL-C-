@@ -24,6 +24,33 @@ namespace Unicorp.App.Persistencia.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "Servicio",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Tipo_servicio = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    ID_Cliente = table.Column<int>(type: "int", nullable: false),
+                    ID_Tecnico = table.Column<int>(type: "int", nullable: false),
+                    Tarifa = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    genera_cobroId = table.Column<int>(type: "int", nullable: true),
+                    Discriminator = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Fecha_servicio = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Hora_servicio = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Descripcion_servicio = table.Column<string>(type: "nvarchar(max)", nullable: true)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Servicio", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_Servicio_Pago_genera_cobroId",
+                        column: x => x.genera_cobroId,
+                        principalTable: "Pago",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Restrict);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Persona",
                 columns: table => new
                 {
@@ -41,6 +68,8 @@ namespace Unicorp.App.Persistencia.Migrations
                     Direccion = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Membresia = table.Column<bool>(type: "bit", nullable: true),
                     Tipo_cliente = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    solicita_servicioId = table.Column<int>(type: "int", nullable: true),
+                    genera_pagoId = table.Column<int>(type: "int", nullable: true),
                     Formacion_profesional = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Disponibilidad = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Tarjeta_profesional = table.Column<int>(type: "int", nullable: true)
@@ -48,39 +77,46 @@ namespace Unicorp.App.Persistencia.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Persona", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_Persona_Pago_genera_pagoId",
+                        column: x => x.genera_pagoId,
+                        principalTable: "Pago",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Restrict);
+                    table.ForeignKey(
+                        name: "FK_Persona_Servicio_solicita_servicioId",
+                        column: x => x.solicita_servicioId,
+                        principalTable: "Servicio",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Restrict);
                 });
 
-            migrationBuilder.CreateTable(
-                name: "Servicio",
-                columns: table => new
-                {
-                    Id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    Tipo_servicio = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    ID_Cliente = table.Column<int>(type: "int", nullable: false),
-                    ID_Tecnico = table.Column<int>(type: "int", nullable: false),
-                    Tarifa = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Discriminator = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Fecha_servicio = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Hora_servicio = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Descripcion_servicio = table.Column<string>(type: "nvarchar(max)", nullable: true)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_Servicio", x => x.Id);
-                });
+            migrationBuilder.CreateIndex(
+                name: "IX_Persona_genera_pagoId",
+                table: "Persona",
+                column: "genera_pagoId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Persona_solicita_servicioId",
+                table: "Persona",
+                column: "solicita_servicioId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Servicio_genera_cobroId",
+                table: "Servicio",
+                column: "genera_cobroId");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "Pago");
-
-            migrationBuilder.DropTable(
                 name: "Persona");
 
             migrationBuilder.DropTable(
                 name: "Servicio");
+
+            migrationBuilder.DropTable(
+                name: "Pago");
         }
     }
 }

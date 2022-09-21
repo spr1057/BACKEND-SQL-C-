@@ -9,5 +9,6 @@ namespace Unicorp.App.Dominio
         public int ID_Cliente { get; set; }
         public int ID_Tecnico { get; set; }
         public string Tarifa { get; set; }
+        public Pagos genera_cobro { get; set; }
     }
 }

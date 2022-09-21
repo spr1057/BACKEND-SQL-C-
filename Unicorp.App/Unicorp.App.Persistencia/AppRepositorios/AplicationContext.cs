@@ -4,7 +4,7 @@ using Unicorp.App.Dominio;
 
 namespace Unicorp.Persistencia
 {
-    public class AppContext : DbContext
+    public class AplicationContext : DbContext
     {
         public DbSet<Personas> Persona { get; set; }
         public DbSet<Tecnicos> Tecnico { get; set; }
