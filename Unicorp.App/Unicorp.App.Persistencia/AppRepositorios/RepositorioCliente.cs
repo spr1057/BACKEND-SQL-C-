@@ -10,11 +10,11 @@ namespace Unicorp.App.Persistencia
     public class RepositorioCliente : IRepositorioCliente
     {
         //Campo propio tipo AplicationContext de la clase RepositorioCliente
-        private readonly AplicationContext _contexto;
+        private readonly AppContext _contexto;
 
 
         //Creamos el constructor de RepositorioCliente
-        public RepositorioCliente(AplicationContext _context)
+        public RepositorioCliente(AppContext _context)
         {
             _contexto = _context;
         }
@@ -77,12 +77,12 @@ namespace Unicorp.App.Persistencia
 
         //Metodo para asignar un tecnico
 
-        Tecnico IRepositorioCliente.AsignarTecnico(int idCliente, int idTecnico)
+        Tecnicos IRepositorioCliente.AsignarTecnico(int idCliente, int idTecnico)
         {
             var clienteEncontrado = _contexto.Cliente.FirstOrDefault(c => c.Id == idCliente);
             if(clienteEncontrado != null)
             {
-                var tecnicoEncontrado = _contexto.Tecnico.FirstOrDefault(t => t.Id == idTecnico)
+                var tecnicoEncontrado = _contexto.Tecnico.FirstOrDefault(t => t.Id == idTecnico);
                 if (tecnicoEncontrado != null)
                 {
                     clienteEncontrado.Tecnicos = tecnicoEncontrado;
