@@ -10,11 +10,11 @@ namespace Unicorp.App.Persistencia
     public class RepositorioCliente : IRepositorioCliente
     {
         //Campo propio tipo AplicationContext de la clase RepositorioCliente
-        private readonly AppContext _contexto;
+        private readonly AplicationContext _contexto;
 
 
         //Creamos el constructor de RepositorioCliente
-        public RepositorioCliente(AppContext _context)
+        public RepositorioCliente(AplicationContext _context)
         {
             _contexto = _context;
         }
