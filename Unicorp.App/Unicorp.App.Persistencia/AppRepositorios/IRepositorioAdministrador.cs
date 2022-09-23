@@ -7,6 +7,7 @@ namespace Unicorp.App.Persistencia
 {
     public interface IRepositorioAdministrador
     {
+        
         //Parte del cliente
 
         IEnumerable<Clientes> GetAllClientes();
