@@ -68,8 +68,9 @@ namespace Unicorp.App.Persistencia.Migrations
                     Direccion = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Membresia = table.Column<bool>(type: "bit", nullable: true),
                     Tipo_cliente = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    solicita_servicioId = table.Column<int>(type: "int", nullable: true),
+                    TecnicosId = table.Column<int>(type: "int", nullable: true),
                     genera_pagoId = table.Column<int>(type: "int", nullable: true),
+                    solicita_servicioId = table.Column<int>(type: "int", nullable: true),
                     Formacion_profesional = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Disponibilidad = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Tarjeta_profesional = table.Column<int>(type: "int", nullable: true)
@@ -81,6 +82,12 @@ namespace Unicorp.App.Persistencia.Migrations
                         name: "FK_Persona_Pago_genera_pagoId",
                         column: x => x.genera_pagoId,
                         principalTable: "Pago",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Restrict);
+                    table.ForeignKey(
+                        name: "FK_Persona_Persona_TecnicosId",
+                        column: x => x.TecnicosId,
+                        principalTable: "Persona",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Restrict);
                     table.ForeignKey(
@@ -100,6 +107,11 @@ namespace Unicorp.App.Persistencia.Migrations
                 name: "IX_Persona_solicita_servicioId",
                 table: "Persona",
                 column: "solicita_servicioId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Persona_TecnicosId",
+                table: "Persona",
+                column: "TecnicosId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Servicio_genera_cobroId",

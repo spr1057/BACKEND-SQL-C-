@@ -40,7 +40,7 @@ namespace Unicorp.App.Persistencia
 
         //Metodo para obtener todos los clientes
 
-        IEnumerable<Clientes> IRepositorioCliente.GetAllClientes(int idCliente)
+        IEnumerable<Clientes> IRepositorioCliente.GetAllClientes()
         {
             return _contexto.Cliente;
         }

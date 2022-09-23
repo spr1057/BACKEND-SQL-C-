@@ -5,12 +5,12 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using Unicorp.Persistencia;
+using Unicorp.App.Persistencia;
 
 namespace Unicorp.App.Persistencia.Migrations
 {
     [DbContext(typeof(AplicationContext))]
-    [Migration("20220921145523_Inicial01")]
+    [Migration("20220923123216_Inicial01")]
     partial class Inicial01
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -142,6 +142,9 @@ namespace Unicorp.App.Persistencia.Migrations
                     b.Property<bool>("Membresia")
                         .HasColumnType("bit");
 
+                    b.Property<int?>("TecnicosId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Tipo_cliente")
                         .HasColumnType("nvarchar(max)");
 
@@ -150,6 +153,8 @@ namespace Unicorp.App.Persistencia.Migrations
 
                     b.Property<int?>("solicita_servicioId")
                         .HasColumnType("int");
+
+                    b.HasIndex("TecnicosId");
 
                     b.HasIndex("genera_pagoId");
 
@@ -201,6 +206,10 @@ namespace Unicorp.App.Persistencia.Migrations
 
             modelBuilder.Entity("Unicorp.App.Dominio.Clientes", b =>
                 {
+                    b.HasOne("Unicorp.App.Dominio.Tecnicos", "Tecnicos")
+                        .WithMany()
+                        .HasForeignKey("TecnicosId");
+
                     b.HasOne("Unicorp.App.Dominio.Pagos", "genera_pago")
                         .WithMany()
                         .HasForeignKey("genera_pagoId");
@@ -212,6 +221,8 @@ namespace Unicorp.App.Persistencia.Migrations
                     b.Navigation("genera_pago");
 
                     b.Navigation("solicita_servicio");
+
+                    b.Navigation("Tecnicos");
                 });
 #pragma warning restore 612, 618
         }

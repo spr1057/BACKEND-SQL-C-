@@ -2,7 +2,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Unicorp.App.Dominio;
 
-namespace Unicorp.Persistencia
+namespace Unicorp.App.Persistencia
 {
     public class AplicationContext : DbContext
     {
