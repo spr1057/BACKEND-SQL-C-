@@ -23,7 +23,7 @@ namespace Unicorp.App.Persistencia
         //Esto que aparece es lo mismo decir: public Administrador AddCliente(Clientes cliente){Aqui iría el código... }
 
         //Metodo para añadir un cliente
-        Administrador IRepositorioAdministrador.AddCliente(Clientes cliente)
+        Clientes IRepositorioAdministrador.AddCliente(Clientes cliente)
         {
             var clienteAdicionado = _contexto.Cliente.Add(cliente);
             _contexto.SaveChanges();
