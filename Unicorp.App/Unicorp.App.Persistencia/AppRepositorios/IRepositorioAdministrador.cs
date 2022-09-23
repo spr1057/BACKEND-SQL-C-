@@ -8,7 +8,7 @@ namespace Unicorp.App.Persistencia
     public interface IRepositorioAdministrador
     {
         
-        //Parte del clientes
+        //Parte del cliente
 
         IEnumerable<Clientes> GetAllClientes();
         Clientes AddCliente(Clientes cliente);

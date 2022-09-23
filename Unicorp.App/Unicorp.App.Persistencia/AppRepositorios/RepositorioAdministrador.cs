@@ -58,7 +58,7 @@ namespace Unicorp.App.Persistencia
 
         //Metodo para actualizar un cliente
 
-        Clientes IRepositorioCliente.UpdateCliente(Clientes cliente)
+        Clientes IRepositorioAdministrador.UpdateCliente(Clientes cliente)
         {
             var clienteEncontrado = _contexto.Cliente.FirstOrDefault(c => c.Id == cliente.Id);
             if (clienteEncontrado != null)
@@ -79,7 +79,7 @@ namespace Unicorp.App.Persistencia
 
         //Metodo para asignar un tecnico
 
-        Tecnicos IRepositorioCliente.AsignarTecnico(int idCliente, int idTecnico)
+        Tecnicos IRepositorioAdministrador.AsignarTecnico(int idCliente, int idTecnico)
         {
             var clienteEncontrado = _contexto.Cliente.FirstOrDefault(c => c.Id == idCliente);
             if(clienteEncontrado != null)
