@@ -49,7 +49,7 @@ namespace Unicorp.App.Persistencia
 
         //Metodo para obtener un solo cliente
 
-        Clientes IRepositorioCliente.GetCliente(int idCliente)
+        Clientes IRepositorioAdministrador.GetCliente(int idCliente)
         {
             return _contexto
                 .Cliente
