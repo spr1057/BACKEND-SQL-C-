@@ -20,40 +20,6 @@ namespace Unicorp.App.Persistencia
         }
 
         //Metodos para realizar el CRUD
-        //Esto que aparece es lo mismo decir: public Clientes AddCliente(Clientes cliente){Aqui iría el código... }
-        Clientes IRepositorioCliente.AddCliente(Clientes cliente)
-        {
-            var clienteAdicionado = _contexto.Cliente.Add(cliente);
-            _contexto.SaveChanges();
-            return clienteAdicionado.Entity;
-        }
-
-        //metodo para eliminar un cliente
-        //esto es lo mismo decir public void Cliente (int idCliente){ Codigo aqui... }
-        void IRepositorioCliente.DeleteCliente(int idCliente)
-        {
-            var clienteEncontrado = _contexto.Cliente.FirstOrDefault(c => c.Id == idCliente);
-            if (clienteEncontrado == null) return;
-            _contexto.Cliente.Remove (clienteEncontrado);
-            _contexto.SaveChanges();
-        }
-
-        //Metodo para obtener todos los clientes
-
-        IEnumerable<Clientes> IRepositorioCliente.GetAllClientes()
-        {
-            return _contexto.Cliente;
-        }
-
-        //Metodo para obtener un solo cliente
-
-        Clientes IRepositorioCliente.GetCliente(int idCliente)
-        {
-            return _contexto
-                .Cliente
-                .FirstOrDefault(c => c.Id == idCliente);
-        }
-
         //Metodo para actualizar un cliente
 
         Clientes IRepositorioCliente.UpdateCliente(Clientes cliente)
@@ -91,6 +57,15 @@ namespace Unicorp.App.Persistencia
             }
             return null;
         }
+
+        //Metodo para obtener un registro historico
+        Detalle_de_Servicios IRepositorioCliente.GetDetalle_de_Servicio(int idServicio)
+        {
+            return _contexto
+                .Detalle_Servicio
+                .FirstOrDefault(s => s.Id == idServicio);
+        }
+
 
     }
 
