@@ -7,6 +7,7 @@ namespace Unicorp.App.Consola
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("COMPAÑEROS BUENAS NOCHES!");
         }
     }
 }
