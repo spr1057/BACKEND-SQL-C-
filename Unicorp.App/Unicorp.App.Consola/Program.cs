@@ -10,4 +10,3 @@ namespace Unicorp.App.Consola
         }
     }
 }
-
