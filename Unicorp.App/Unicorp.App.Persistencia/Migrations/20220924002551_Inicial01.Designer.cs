@@ -10,7 +10,7 @@ using Unicorp.App.Persistencia;
 namespace Unicorp.App.Persistencia.Migrations
 {
     [DbContext(typeof(AplicationContext))]
-    [Migration("20220923123216_Inicial01")]
+    [Migration("20220924002551_Inicial01")]
     partial class Inicial01
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -170,10 +170,10 @@ namespace Unicorp.App.Persistencia.Migrations
                     b.Property<string>("Disponibilidad")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Formacion_profesional")
+                    b.Property<string>("Formacion_Academica")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Tarjeta_profesional")
+                    b.Property<int>("Tarjeta_Profesional")
                         .HasColumnType("int");
 
                     b.HasDiscriminator().HasValue("Tecnicos");

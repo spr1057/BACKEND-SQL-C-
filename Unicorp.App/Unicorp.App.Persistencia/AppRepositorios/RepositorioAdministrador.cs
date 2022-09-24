@@ -23,7 +23,7 @@ namespace Unicorp.App.Persistencia
         //Esto que aparece es lo mismo decir: public Administrador AddCliente(Clientes cliente){Aqui iría el código... }
 
         //Metodo para añadir un cliente
-        Administrador IRepositorioAdministrador.AddCliente(Clientes cliente)
+        Clientes IRepositorioAdministrador.AddCliente(Clientes cliente)
         {
             var clienteAdicionado = _contexto.Cliente.Add(cliente);
             _contexto.SaveChanges();
@@ -93,7 +93,57 @@ namespace Unicorp.App.Persistencia
             }
             return null;
         }
+        //Metodo para añadir un técnico
+        Tecnicos IRepositorioAdministrador.AddTecnico(Tecnicos tecnico)
+        {
+            var tecnicoAdicionado = _contexto.Tecnico.Add(tecnico);
+            _contexto.SaveChanges();
+            return tecnicoAdicionado.Entity;
+        }
+         //Metodo para actualizar un tecnico
 
+        Tecnicos IRepositorioAdministrador.UpdateTecnico(Tecnicos tecnico)
+        {
+            var tecnicoEncontrado = _contexto.Tecnico.FirstOrDefault(t => t.Id == tecnico.Id);
+            if (tecnicoEncontrado != null)
+            {
+                tecnicoEncontrado.Nombre_completo = tecnico.Nombre_completo;
+                tecnicoEncontrado.Identificacion = tecnico.Identificacion;
+                tecnicoEncontrado.Password = tecnico.Password;
+                tecnicoEncontrado.Email = tecnico.Email;
+                tecnicoEncontrado.Telefono = tecnico.Telefono;            
+                tecnicoEncontrado.Disponibilidad = tecnico.Disponibilidad;
+                tecnicoEncontrado.Tarjeta_Profesional = tecnico.Tarjeta_Profesional;
+                tecnicoEncontrado.Formacion_Academica = tecnico.Formacion_Academica;               
+                _contexto.SaveChanges();
+            }
+            return tecnicoEncontrado;
+        }
+                //Metodo para eliminar un tecnico
+     
+        void IRepositorioAdministrador.DeleteTecnico(int idTecnico)
+        {
+            var tecnicoEncontrado = _contexto.Tecnico.FirstOrDefault(c => c.Id == idTecnico);
+            if (tecnicoEncontrado == null) return;
+            _contexto.Tecnico.Remove (tecnicoEncontrado);
+            _contexto.SaveChanges();
+        }
+
+        //Metodo para obtener todos los Tecnicos
+
+        IEnumerable<Tecnicos> IRepositorioAdministrador.GetAllTecnicos()
+        {
+            return _contexto.Tecnico;
+        }
+
+        //Metodo para obtener un solo tecnico
+
+        Tecnicos IRepositorioAdministrador.GetTecnico(int idTecnico)
+        {
+            return _contexto
+                .Tecnico
+                .FirstOrDefault(t => t.Id == idTecnico);
+        }
     }
 
 }

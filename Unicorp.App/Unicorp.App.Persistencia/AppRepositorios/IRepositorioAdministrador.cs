@@ -23,6 +23,6 @@ namespace Unicorp.App.Persistencia
         Tecnicos UpdateTecnico(Tecnicos tecnico);
         void DeleteTecnico(int idTecnico);
         Tecnicos GetTecnico(int idTecnico);
-        Tecnicos AsignarCliente(int idCliente, int idTecnico);
+      
     }
 }
