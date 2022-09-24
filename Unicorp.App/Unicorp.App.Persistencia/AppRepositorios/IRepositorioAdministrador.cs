@@ -23,5 +23,9 @@ namespace Unicorp.App.Persistencia
         Tecnicos UpdateTecnico(Tecnicos tecnico);
         void DeleteTecnico(int idTecnico);
         Tecnicos GetTecnico(int idTecnico);
+
+        //Parte del registro histórico
+        Detalle_de_Servicios GetDetalle_de_Servicio(int idServicio);
+
     }
 }

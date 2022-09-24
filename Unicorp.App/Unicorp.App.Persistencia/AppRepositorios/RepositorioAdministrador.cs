@@ -144,6 +144,20 @@ namespace Unicorp.App.Persistencia
                 .Tecnico
                 .FirstOrDefault(t => t.Id == idTecnico);
         }
-    }
+
+        //Metodo para obtener un solo registro histórico
+
+        Detalle_de_Servicios IRepositorioAdministrador.GetDetalle_de_Servicio(int idServicio)
+        {
+            return _contexto
+                .Detalle_Servicio
+                .FirstOrDefault(s => s.Id == idServicio);
+        }
+
+        //Metodo para obtener todo el registro histórico
+
+        
+
+    }   
 
 }
