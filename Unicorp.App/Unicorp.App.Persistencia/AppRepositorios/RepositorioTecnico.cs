@@ -48,6 +48,31 @@ namespace Unicorp.App.Persistencia
             return tecnicoEncontrado;
         }
 
+        //Metodo para obtener un solo registro histórico
+
+        Detalle_de_Servicios IRepositorioTecnico.GetDetalle_de_Servicio(int idServicio)
+        {
+            return _contexto
+                .Detalle_Servicio
+                .FirstOrDefault(s => s.Id == idServicio);
+        }
+
+        //Metodo para obtener todo el registro histórico
+
+        IEnumerable<Detalle_de_Servicios> IRepositorioTecnico.GetAllDetalle_de_Servicio()
+        {
+            return _contexto.Detalle_Servicio;
+        }
+        
+        //Metodo para adicionar un registro histórico
+
+        Detalle_de_Servicios IRepositorioTecnico.AddDetalle_de_Servicio(Detalle_de_Servicios detalle_de_servicio)
+        {
+            var detalle_de_servicioAdicionado = _contexto.Detalle_Servicio.Add(detalle_de_servicio);
+            _contexto.SaveChanges();
+            return detalle_de_servicioAdicionado.Entity;
+        }
+
         
 
     }
