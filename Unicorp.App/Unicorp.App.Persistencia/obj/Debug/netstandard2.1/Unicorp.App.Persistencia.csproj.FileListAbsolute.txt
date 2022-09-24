@@ -34,3 +34,15 @@ C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\
 C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.csproj.CopyComplete
 C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.dll
 C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.pdb
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.dll
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.pdb
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Persistencia\bin\Debug\netstandard2.1\Unicorp.App.Persistencia.deps.json
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Persistencia\bin\Debug\netstandard2.1\Unicorp.App.Persistencia.dll
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Persistencia\bin\Debug\netstandard2.1\Unicorp.App.Persistencia.pdb
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Persistencia\bin\Debug\netstandard2.1\Unicorp.App.Dominio.dll
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Persistencia\bin\Debug\netstandard2.1\Unicorp.App.Dominio.pdb
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Persistencia\obj\Debug\netstandard2.1\Unicorp.App.Persistencia.csproj.CopyComplete

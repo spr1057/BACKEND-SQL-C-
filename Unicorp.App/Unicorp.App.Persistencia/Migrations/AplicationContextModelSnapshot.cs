@@ -168,10 +168,10 @@ namespace Unicorp.App.Persistencia.Migrations
                     b.Property<string>("Disponibilidad")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Formacion_profesional")
+                    b.Property<string>("Formacion_Academica")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Tarjeta_profesional")
+                    b.Property<int>("Tarjeta_Profesional")
                         .HasColumnType("int");
 
                     b.HasDiscriminator().HasValue("Tecnicos");

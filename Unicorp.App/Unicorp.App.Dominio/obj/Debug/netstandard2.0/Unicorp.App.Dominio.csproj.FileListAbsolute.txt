@@ -25,3 +25,12 @@ C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\
 C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Dominio\obj\Debug\netstandard2.0\Unicorp.App.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Dominio\obj\Debug\netstandard2.0\Unicorp.App.Dominio.dll
 C:\Users\Sebastián\Desktop\Proyecto Mantenimiento Computadores Mision TIC 2022\BACKEND (SQL-C#)\Unicorp.App\Unicorp.App.Dominio\obj\Debug\netstandard2.0\Unicorp.App.Dominio.pdb
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Dominio\bin\Debug\netstandard2.0\Unicorp.App.Dominio.deps.json
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Dominio\bin\Debug\netstandard2.0\Unicorp.App.Dominio.dll
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Dominio\bin\Debug\netstandard2.0\Unicorp.App.Dominio.pdb
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Dominio\obj\Debug\netstandard2.0\Unicorp.App.Dominio.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Dominio\obj\Debug\netstandard2.0\Unicorp.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Dominio\obj\Debug\netstandard2.0\Unicorp.App.Dominio.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Dominio\obj\Debug\netstandard2.0\Unicorp.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Dominio\obj\Debug\netstandard2.0\Unicorp.App.Dominio.dll
+C:\Users\User\OneDrive\Documentos\MINTIC CICLO 3\OficialProject\BACKEND-SQL-C-\Unicorp.App\Unicorp.App.Dominio\obj\Debug\netstandard2.0\Unicorp.App.Dominio.pdb

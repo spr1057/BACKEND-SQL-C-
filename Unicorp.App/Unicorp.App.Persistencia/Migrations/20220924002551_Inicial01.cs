@@ -71,9 +71,9 @@ namespace Unicorp.App.Persistencia.Migrations
                     TecnicosId = table.Column<int>(type: "int", nullable: true),
                     genera_pagoId = table.Column<int>(type: "int", nullable: true),
                     solicita_servicioId = table.Column<int>(type: "int", nullable: true),
-                    Formacion_profesional = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Formacion_Academica = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Disponibilidad = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Tarjeta_profesional = table.Column<int>(type: "int", nullable: true)
+                    Tarjeta_Profesional = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
                 {
