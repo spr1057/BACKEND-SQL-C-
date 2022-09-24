@@ -26,6 +26,6 @@ namespace Unicorp.App.Persistencia
 
         //Parte del registro histórico
         Detalle_de_Servicios GetDetalle_de_Servicio(int idServicio);
-
+        IEnumerable<Detalle_de_Servicios> GetAllDetalle_de_Servicio();
     }
 }

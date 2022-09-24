@@ -156,8 +156,11 @@ namespace Unicorp.App.Persistencia
 
         //Metodo para obtener todo el registro histórico
 
+        IEnumerable<Detalle_de_Servicios> IRepositorioAdministrador.GetAllDetalle_de_Servicio()
+        {
+            return _contexto.Detalle_Servicio;
+        }
         
-
     }   
 
 }
