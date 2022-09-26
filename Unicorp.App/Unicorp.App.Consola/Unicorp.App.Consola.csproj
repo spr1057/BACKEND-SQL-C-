@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Unicorp.App.Persistencia\Unicorp.App.Persistencia.csproj" />
+    <ProjectReference Include="..\Unicorp.App.Dominio\Unicorp.App.Dominio.csproj" />
   </ItemGroup>
 
 </Project>
